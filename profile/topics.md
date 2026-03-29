@@ -80,6 +80,6 @@ Suggest three options. Morten picks one. Then draft the full post.
 
 ## Emerging themes
 
-- Trust-based leadership paradox: Trust-based systems require more active leadership engagement, not less — when boundaries are tested, the real work is in direct relationships and individual conversations rather than system-wide policy changes
-- The hidden cost of maintaining trust: Understanding that flexible policies designed for good intent demand higher leadership attention and courage for difficult conversations when misused, rather than retreating to compliance-based solutions
-- Individual versus systemic responses: The leadership choice between addressing boundary-testing through universal policy tightening or through direct engagement with specific relationships and behaviors
+- Trust-based system design: How leaders navigate building flexible policies that assume good intent while protecting against misuse, revealing the operational tension between designing for the norm versus the exception
+- Leadership attention allocation: The discipline of protecting space for strategic and cultural work when urgent operational demands consistently compete for bandwidth and decision-making focus
+- Policy design as culture expression: The choice between building systems that assume good intent versus systems that prevent abuse, and what this reveals about leadership values and how trust actually operates in distributed organizations
