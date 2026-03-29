@@ -80,8 +80,6 @@ Suggest three options. Morten picks one. Then draft the full post.
 
 ## Emerging themes
 
-- Trust-based system design: How leaders navigate building flexible policies that assume good intent while protecting against misuse, especially in hybrid work environments
-- Leadership attention allocation: The discipline of protecting space for important strategic and cultural work when urgent operational demands constantly compete for bandwidth
-- Decision-making timing under uncertainty: The skill of moving forward with enough information rather than waiting for perfect data, particularly in complex multi-market operations
-- Policy design philosophy: The choice between building systems for exceptions versus designing for the norm, and what this reveals about leadership values and organizational trust
-- The cost of maintaining trust: Understanding that trust-based leadership requires more active leadership attention and direct conversations, not less, when boundaries are tested
+- Trust-based leadership paradox: Trust-based systems require more active leadership engagement, not less — when boundaries are tested, the real work is in direct relationships and individual conversations rather than system-wide policy changes
+- The hidden cost of maintaining trust: Understanding that flexible policies designed for good intent demand higher leadership attention and courage for difficult conversations when misused, rather than retreating to compliance-based solutions
+- Individual versus systemic responses: The leadership choice between addressing boundary-testing through universal policy tightening or through direct engagement with specific relationships and behaviors
