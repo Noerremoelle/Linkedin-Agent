@@ -75,3 +75,11 @@ When suggesting post topics, provide:
 4. **A suggested opening line** — not a title, the actual first line of the post
 
 Suggest three options. Morten picks one. Then draft the full post.
+
+---
+
+## Emerging themes
+
+- Trust-based system design: How leaders navigate building flexible policies that assume good intent while protecting against misuse, especially in hybrid work environments
+- Leadership attention allocation: The discipline of protecting space for important strategic and cultural work when urgent operational demands constantly compete for bandwidth
+- Decision-making timing under uncertainty: The skill of moving forward with enough information rather than waiting for perfect data, particularly in complex multi-market operations
